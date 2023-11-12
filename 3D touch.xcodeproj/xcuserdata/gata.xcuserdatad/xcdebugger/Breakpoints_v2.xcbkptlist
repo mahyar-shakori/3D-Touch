@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B715B32F-8303-41AB-A02C-CC6335C9A830"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB8E790D-14FF-4951-A935-3FEA5505BE51"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "as/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "application(_:performActionFor:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FB8E790D-14FF-4951-A935-3FEA5505BE51 - 803a9647807461ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "as.AppDelegate.application(_: __C.UIApplication, performActionFor: __C.UIApplicationShortcutItem, completionHandler: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "as"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gata/Desktop/as/as/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "FB8E790D-14FF-4951-A935-3FEA5505BE51 - 803a9647807462e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "as.AppDelegate.application(_: __C.UIApplication, performActionFor: __C.UIApplicationShortcutItem, completionHandler: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "as"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gata/Desktop/as/as/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
